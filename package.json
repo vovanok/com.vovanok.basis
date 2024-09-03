@@ -1,0 +1,10 @@
+{
+  "name": "com.vovanok.basis",
+  "displayName": "Unity Basis",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "keywords": [],
+  "description": "Unity basis services for all projects.",
+  "dependencies": {
+  }
+}
